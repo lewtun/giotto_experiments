@@ -1,6 +1,7 @@
 {
   "giotto_experiments": {
     "Overview": "/",
-    "module name here": "core.html"
+    "module name here": "core.html",
+    "Title": "alien-mapper.html"
   }
 }
